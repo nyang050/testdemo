@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GW_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64e8ad9a-2a8e-4e13-b93f-c5dd1823efd5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9caa9cdf-f166-4b21-9243-10b6473e04cb</id>
+      <masked>false</masked>
+      <name>GW_URL</name>
+   </variable>
+</TestCaseEntity>
